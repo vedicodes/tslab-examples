@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vedicodes/tslab-examples/master?filepath=notebooks%2Fgetting_started.ipynb)
+
 # tslab-examples
 
 Example notebooks of tslab (https://github.com/yunabe/tslab)
